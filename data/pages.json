@@ -1,0 +1,17 @@
+[
+  {
+    "id": "about",
+    "es": { "slug": "acerca", "title": "Cómo elegimos", "description": "Cómo seleccionamos los productos recomendados para personas mayores de 50 años." },
+    "en": { "slug": "about", "title": "How we choose", "description": "How we select the products we recommend for people over 50." }
+  },
+  {
+    "id": "affiliate",
+    "es": { "slug": "aviso-afiliados", "title": "Aviso de afiliados", "description": "Información sobre los enlaces de afiliado de Products Recommender." },
+    "en": { "slug": "affiliate-disclosure", "title": "Affiliate disclosure", "description": "Information about Products Recommender's affiliate links." }
+  },
+  {
+    "id": "privacy",
+    "es": { "slug": "privacidad", "title": "Política de privacidad", "description": "Cómo tratamos tus datos en Products Recommender." },
+    "en": { "slug": "privacy", "title": "Privacy policy", "description": "How we handle your data at Products Recommender." }
+  }
+]

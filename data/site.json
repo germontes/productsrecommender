@@ -1,0 +1,7 @@
+{
+  "name": "Products Recommender",
+  "domain": "https://productsrecommender.com",
+  "affiliateTag": "TUTAG-20",
+  "languages": ["es", "en"],
+  "defaultLanguage": "es"
+}

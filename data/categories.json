@@ -1,0 +1,130 @@
+{
+  "sections": [
+    {
+      "id": "hombres",
+      "icon": "man",
+      "es": {
+        "slug": "hombres",
+        "name": "Hombres",
+        "card": "Para él",
+        "cardText": "Salud, movilidad, tecnología y cuidado personal pensados para hombres 50+.",
+        "title": "Para hombres 50+",
+        "intro": "Productos elegidos para mantenerse activo, cómodo y al día después de los 50."
+      },
+      "en": {
+        "slug": "men",
+        "name": "Men",
+        "card": "For him",
+        "cardText": "Health, mobility, tech and personal care picked for men over 50.",
+        "title": "For men 50+",
+        "intro": "Products picked to help you stay active, comfortable and up to date after 50."
+      }
+    },
+    {
+      "id": "mujeres",
+      "icon": "woman",
+      "es": {
+        "slug": "mujeres",
+        "name": "Mujeres",
+        "card": "Para ella",
+        "cardText": "Bienestar, ejercicio, tecnología y hogar pensados para mujeres 50+.",
+        "title": "Para mujeres 50+",
+        "intro": "Productos elegidos para cuidarse, moverse con libertad y disfrutar cada día después de los 50."
+      },
+      "en": {
+        "slug": "women",
+        "name": "Women",
+        "card": "For her",
+        "cardText": "Wellness, exercise, tech and home picked for women over 50.",
+        "title": "For women 50+",
+        "intro": "Products picked to help you take care of yourself, move freely and enjoy every day after 50."
+      }
+    },
+    {
+      "id": "unisex",
+      "icon": "people",
+      "es": {
+        "slug": "unisex",
+        "name": "Unisex",
+        "card": "Para todos",
+        "cardText": "Productos útiles para cualquier persona 50+, sin importar el género.",
+        "title": "Unisex: para todos 50+",
+        "intro": "Productos útiles para cualquier persona, sin importar el género."
+      },
+      "en": {
+        "slug": "unisex",
+        "name": "Unisex",
+        "card": "For everyone",
+        "cardText": "Useful products for anyone over 50, whatever their gender.",
+        "title": "Unisex: for everyone 50+",
+        "intro": "Useful products for anyone, whatever their gender."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "salud-bienestar",
+      "icon": "health",
+      "es": {
+        "slug": "salud-bienestar",
+        "name": "Salud y bienestar",
+        "short": "Cuidar el cuerpo y sentirse mejor cada día.",
+        "intro": "A partir de los 50, lo más útil es lo que se usa sin complicaciones: lecturas claras, pantallas grandes y comodidad real. Estos productos no sustituyen el consejo de tu médico, pero sí facilitan el cuidado diario."
+      },
+      "en": {
+        "slug": "health-wellness",
+        "name": "Health & wellness",
+        "short": "Care for your body and feel better every day.",
+        "intro": "After 50, the most useful products are the ones that are easy to use: clear readings, large screens and real comfort. These products don't replace your doctor's advice, but they make daily care easier."
+      }
+    },
+    {
+      "id": "fitness-movilidad",
+      "icon": "fitness",
+      "es": {
+        "slug": "fitness-movilidad",
+        "name": "Fitness y movilidad",
+        "short": "Moverse más, con seguridad y sin dolor.",
+        "intro": "Mantenerse en movimiento es la mejor inversión. Buscamos productos de bajo impacto, estables y fáciles de guardar, que ayuden a caminar, estirarse y ganar fuerza a tu ritmo."
+      },
+      "en": {
+        "slug": "fitness-mobility",
+        "name": "Fitness & mobility",
+        "short": "Move more, safely and without pain.",
+        "intro": "Staying active is the best investment. We look for low-impact, stable, easy-to-store products that help you walk, stretch and build strength at your own pace."
+      }
+    },
+    {
+      "id": "tecnologia-facil",
+      "icon": "tech",
+      "es": {
+        "slug": "tecnologia-facil",
+        "name": "Tecnología fácil",
+        "short": "Aparatos útiles, sin manuales complicados.",
+        "intro": "La buena tecnología no debería requerir un manual de 50 páginas. Elegimos aparatos con pantallas legibles, botones claros y funciones que de verdad se usan."
+      },
+      "en": {
+        "slug": "easy-tech",
+        "name": "Easy tech",
+        "short": "Useful gadgets, no complicated manuals.",
+        "intro": "Good technology shouldn't need a 50-page manual. We pick devices with readable screens, clear buttons and features people actually use."
+      }
+    },
+    {
+      "id": "cuidado-hogar",
+      "icon": "home",
+      "es": {
+        "slug": "cuidado-hogar",
+        "name": "Cuidado personal y hogar",
+        "short": "Comodidad y seguridad en el día a día.",
+        "intro": "Pequeños cambios en casa y en la rutina de cuidado personal marcan una gran diferencia. Priorizamos productos ligeros, seguros y fáciles de agarrar."
+      },
+      "en": {
+        "slug": "personal-care-home",
+        "name": "Personal care & home",
+        "short": "Everyday comfort and safety.",
+        "intro": "Small changes at home and in your personal care routine make a big difference. We favor products that are light, safe and easy to grip."
+      }
+    }
+  ]
+}

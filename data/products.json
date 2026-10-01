@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "faja-soporte-lumbar",
+    "gender": "hombres", "category": "salud-bienestar", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=lumbar+back+support+belt+men",
+    "es": {
+      "slug": "faja-soporte-lumbar",
+      "name": "Faja de soporte lumbar ajustable",
+      "ideal50": "Alivia la espalda al cargar peso y al caminar",
+      "why50": "Con los años, la zona lumbar se resiente más al levantar peso o al estar mucho tiempo de pie. Esta faja da un soporte firme sin apretar y se ajusta con velcro usando una sola mano.",
+      "features": ["Varillas flexibles de soporte", "Cierre de velcro doble ajustable", "Tela transpirable para uso diario"],
+      "pros": ["Se pone y se quita en segundos", "Discreta bajo la ropa", "Disponible en varias tallas"],
+      "cons": ["Puede dar calor en verano", "No sustituye la consulta médica"],
+      "forWho": "Hombres que hacen jardinería o bricolaje, o que pasan muchas horas de pie.",
+      "notForWho": "Quien tenga una lesión diagnosticada y no cuente con indicación médica."
+    },
+    "en": {
+      "slug": "adjustable-lumbar-support-belt",
+      "name": "Adjustable lumbar support belt",
+      "ideal50": "Eases back strain when lifting and walking",
+      "why50": "With age, the lower back feels it more when lifting or standing for long periods. This belt gives firm support without squeezing and adjusts with one hand thanks to its velcro closure.",
+      "features": ["Flexible support stays", "Double adjustable velcro closure", "Breathable fabric for daily wear"],
+      "pros": ["On and off in seconds", "Discreet under clothing", "Available in several sizes"],
+      "cons": ["Can feel warm in summer", "Not a substitute for medical advice"],
+      "forWho": "Men who garden, do DIY projects or spend many hours on their feet.",
+      "notForWho": "Anyone with a diagnosed injury who hasn't been advised by a doctor."
+    }
+  },
+  {
+    "id": "masajeador-percusion-compacto",
+    "gender": "hombres", "category": "salud-bienestar", "rank": 2, "rating": 4.5, "badge": null, "priceTier": 3, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=compact+massage+gun",
+    "es": {
+      "slug": "masajeador-percusion-compacto",
+      "name": "Masajeador de percusión compacto",
+      "ideal50": "Relaja músculos cargados en pocos minutos",
+      "why50": "Ayuda a soltar la tensión de espalda, piernas y hombros después de caminar o hacer ejercicio. Los modelos compactos pesan poco y son fáciles de sostener.",
+      "features": ["Varias velocidades", "4 cabezales intercambiables", "Batería recargable por USB-C"],
+      "pros": ["Ligero y silencioso", "Batería de larga duración", "Incluye estuche de viaje"],
+      "cons": ["Precio más alto", "Hay que usarlo con suavidad en zonas sensibles"],
+      "forWho": "Hombres activos con tensión muscular frecuente.",
+      "notForWho": "Personas con problemas circulatorios o que toman anticoagulantes, sin consultar antes al médico."
+    },
+    "en": {
+      "slug": "compact-percussion-massager",
+      "name": "Compact percussion massager",
+      "ideal50": "Relaxes tight muscles in just a few minutes",
+      "why50": "Helps release tension in the back, legs and shoulders after walking or exercise. Compact models are light and easy to hold.",
+      "features": ["Multiple speeds", "4 interchangeable heads", "USB-C rechargeable battery"],
+      "pros": ["Light and quiet", "Long battery life", "Comes with a travel case"],
+      "cons": ["Higher price", "Use gently on sensitive areas"],
+      "forWho": "Active men who often deal with muscle tension.",
+      "notForWho": "People with circulation problems or on blood thinners, unless their doctor approves."
+    }
+  },
+  {
+    "id": "plantillas-gel-hombre",
+    "gender": "hombres", "category": "salud-bienestar", "rank": 3, "rating": 4.0, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=gel+insoles+men+arch+support",
+    "es": {
+      "slug": "plantillas-gel-hombre",
+      "name": "Plantillas de gel con soporte de arco",
+      "ideal50": "Más comodidad en cada paso, en cualquier zapato",
+      "why50": "La almohadilla natural del pie se reduce con la edad. Estas plantillas amortiguan el impacto y reducen el cansancio en talones y rodillas.",
+      "features": ["Gel en talón y antepié", "Soporte de arco", "Se recortan a la medida"],
+      "pros": ["Muy económicas", "Se notan desde el primer día", "Sirven en zapatos y tenis"],
+      "cons": ["Ocupan algo de espacio en el zapato", "Se desgastan con el uso intenso"],
+      "forWho": "Hombres que caminan mucho o sienten dolor en los talones.",
+      "notForWho": "Quien necesita plantillas ortopédicas hechas a medida."
+    },
+    "en": {
+      "slug": "gel-arch-support-insoles",
+      "name": "Gel insoles with arch support",
+      "ideal50": "More comfort with every step, in any shoe",
+      "why50": "The foot's natural padding thins with age. These insoles cushion impact and reduce fatigue in the heels and knees.",
+      "features": ["Gel at heel and forefoot", "Arch support", "Trim to fit"],
+      "pros": ["Very affordable", "You feel the difference on day one", "Work in shoes and sneakers"],
+      "cons": ["Take up some room in the shoe", "Wear out with heavy use"],
+      "forWho": "Men who walk a lot or have heel pain.",
+      "notForWho": "Anyone who needs custom orthotics."
+    }
+  },
+  {
+    "id": "zapatillas-caminar-hombre",
+    "gender": "hombres", "category": "fitness-movilidad", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 3, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=men+walking+shoes+cushioned+wide",
+    "es": {
+      "slug": "zapatillas-caminar-hombre",
+      "name": "Tenis para caminar con amortiguación",
+      "ideal50": "Suela estable y horma ancha para caminar sin dolor",
+      "why50": "Caminar es el ejercicio más recomendado después de los 50. Una buena suela amortigua el impacto en rodillas y caderas, y la horma ancha evita rozaduras.",
+      "features": ["Amortiguación de espuma", "Horma ancha", "Suela antideslizante"],
+      "pros": ["Muy cómodos desde el primer uso", "Estables en superficies irregulares", "Fáciles de poner"],
+      "cons": ["Precio alto", "Diseño más deportivo que formal"],
+      "forWho": "Hombres que caminan a diario o quieren empezar a hacerlo.",
+      "notForWho": "Quien busca un zapato para correr a alta velocidad."
+    },
+    "en": {
+      "slug": "mens-cushioned-walking-shoes",
+      "name": "Cushioned walking shoes",
+      "ideal50": "Stable sole and wide fit for pain-free walks",
+      "why50": "Walking is the most recommended exercise after 50. A good sole cushions the impact on knees and hips, and a wide fit prevents rubbing.",
+      "features": ["Foam cushioning", "Wide fit", "Non-slip sole"],
+      "pros": ["Comfortable from the first wear", "Stable on uneven ground", "Easy to put on"],
+      "cons": ["High price", "Sporty rather than dressy look"],
+      "forWho": "Men who walk every day or want to start.",
+      "notForWho": "Anyone looking for a fast running shoe."
+    }
+  },
+  {
+    "id": "bandas-resistencia-asas",
+    "gender": "hombres", "category": "fitness-movilidad", "rank": 2, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=resistance+bands+with+handles",
+    "es": {
+      "slug": "bandas-resistencia-asas",
+      "name": "Bandas de resistencia con asas",
+      "ideal50": "Ganar fuerza en casa sin pesas ni riesgo",
+      "why50": "Mantener la masa muscular es clave con la edad. Las bandas permiten ejercicios de bajo impacto, con resistencia progresiva y sin cargar pesos.",
+      "features": ["5 niveles de resistencia", "Asas acolchadas", "Anclaje para puerta"],
+      "pros": ["Económicas y ligeras", "Ocupan muy poco espacio", "Sirven para todo el cuerpo"],
+      "cons": ["Hay que revisar que no tengan grietas", "Conviene aprender la técnica con videos"],
+      "forWho": "Hombres que quieren mantenerse fuertes en casa.",
+      "notForWho": "Quien prefiere hacer ejercicio con máquinas de gimnasio."
+    },
+    "en": {
+      "slug": "resistance-bands-with-handles",
+      "name": "Resistance bands with handles",
+      "ideal50": "Build strength at home without weights or risk",
+      "why50": "Keeping muscle mass matters more with age. Bands allow low-impact exercise with progressive resistance and no heavy lifting.",
+      "features": ["5 resistance levels", "Padded handles", "Door anchor included"],
+      "pros": ["Affordable and light", "Take up very little space", "Work the whole body"],
+      "cons": ["Check them regularly for cracks", "Worth learning the technique from videos"],
+      "forWho": "Men who want to stay strong at home.",
+      "notForWho": "Anyone who prefers gym machines."
+    }
+  },
+  {
+    "id": "mini-pedaleador",
+    "gender": "hombres", "category": "fitness-movilidad", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=under+desk+pedal+exerciser",
+    "es": {
+      "slug": "mini-pedaleador",
+      "name": "Mini pedaleador para brazos y piernas",
+      "ideal50": "Ejercicio suave sentado, mientras ves la tele",
+      "why50": "Mueve las articulaciones y activa la circulación sin impacto. Se usa sentado, por lo que es seguro incluso con poca estabilidad.",
+      "features": ["Resistencia ajustable", "Pantalla con tiempo y calorías", "Base antideslizante"],
+      "pros": ["Muy seguro", "Se guarda debajo de la mesa", "Sirve también para los brazos"],
+      "cons": ["Ejercicio de intensidad baja", "Algunos modelos hacen algo de ruido"],
+      "forWho": "Hombres que pasan mucho tiempo sentados o se recuperan de una lesión.",
+      "notForWho": "Quien busca un entrenamiento intenso."
+    },
+    "en": {
+      "slug": "mini-pedal-exerciser",
+      "name": "Mini pedal exerciser for arms and legs",
+      "ideal50": "Gentle seated exercise while you watch TV",
+      "why50": "Keeps joints moving and gets circulation going without impact. You use it seated, so it's safe even with limited balance.",
+      "features": ["Adjustable resistance", "Display with time and calories", "Non-slip base"],
+      "pros": ["Very safe", "Fits under a desk or table", "Works for arms too"],
+      "cons": ["Low-intensity workout", "Some models are a bit noisy"],
+      "forWho": "Men who sit a lot or are recovering from an injury.",
+      "notForWho": "Anyone looking for an intense workout."
+    }
+  },
+  {
+    "id": "reloj-deteccion-caidas",
+    "gender": "hombres", "category": "tecnologia-facil", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 3, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=smartwatch+fall+detection",
+    "es": {
+      "slug": "reloj-inteligente-deteccion-caidas",
+      "name": "Reloj inteligente con detección de caídas",
+      "ideal50": "Avisa a tu familia si sufres una caída",
+      "why50": "Además de contar pasos y medir el ritmo cardíaco, detecta caídas fuertes y puede llamar a un contacto de emergencia. Da tranquilidad a ti y a tu familia.",
+      "features": ["Detección de caídas y llamada SOS", "Ritmo cardíaco y sueño", "Pantalla grande y brillante"],
+      "pros": ["Aporta mucha tranquilidad", "Notificaciones legibles", "Resistente al agua"],
+      "cons": ["Hay que cargarlo cada 1-2 días", "Requiere un celular compatible"],
+      "forWho": "Hombres que viven solos o hacen actividades al aire libre.",
+      "notForWho": "Quien no quiere cargar otro aparato a diario."
+    },
+    "en": {
+      "slug": "smartwatch-fall-detection",
+      "name": "Smartwatch with fall detection",
+      "ideal50": "Alerts your family if you take a fall",
+      "why50": "Besides counting steps and tracking heart rate, it detects hard falls and can call an emergency contact. Peace of mind for you and your family.",
+      "features": ["Fall detection and SOS call", "Heart rate and sleep tracking", "Large, bright screen"],
+      "pros": ["Great peace of mind", "Readable notifications", "Water resistant"],
+      "cons": ["Needs charging every 1-2 days", "Requires a compatible phone"],
+      "forWho": "Men who live alone or enjoy outdoor activities.",
+      "notForWho": "Anyone who doesn't want to charge another device daily."
+    }
+  },
+  {
+    "id": "auriculares-conduccion-osea",
+    "gender": "hombres", "category": "tecnologia-facil", "rank": 2, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=bone+conduction+headphones",
+    "es": {
+      "slug": "auriculares-conduccion-osea",
+      "name": "Auriculares de conducción ósea",
+      "ideal50": "Escucha música sin dejar de oír la calle",
+      "why50": "No se meten en el oído: transmiten el sonido a través del hueso de la mejilla. Así puedes caminar escuchando la radio sin aislarte del tráfico.",
+      "features": ["Diseño abierto", "Bluetooth", "8 horas de batería"],
+      "pros": ["Seguros para caminar", "Cómodos con lentes", "No causan dolor de oído"],
+      "cons": ["Menos graves que unos auriculares normales", "En lugares ruidosos se oyen menos"],
+      "forWho": "Hombres que caminan o hacen ejercicio al aire libre.",
+      "notForWho": "Quien busca la mejor calidad de sonido para música."
+    },
+    "en": {
+      "slug": "bone-conduction-headphones",
+      "name": "Bone conduction headphones",
+      "ideal50": "Listen to music and still hear the street",
+      "why50": "They don't go in your ears: sound travels through the cheekbone. You can walk while listening to the radio without shutting out traffic.",
+      "features": ["Open-ear design", "Bluetooth", "8-hour battery"],
+      "pros": ["Safe for walking", "Comfortable with glasses", "No ear pain"],
+      "cons": ["Less bass than regular headphones", "Harder to hear in noisy places"],
+      "forWho": "Men who walk or exercise outdoors.",
+      "notForWho": "Anyone seeking the best sound quality for music."
+    }
+  },
+  {
+    "id": "localizador-llaves-bluetooth",
+    "gender": "hombres", "category": "tecnologia-facil", "rank": 3, "rating": 4.0, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=bluetooth+key+finder",
+    "es": {
+      "slug": "localizador-llaves-bluetooth",
+      "name": "Localizador de llaves Bluetooth",
+      "ideal50": "Encuentra llaves y cartera con un toque",
+      "why50": "Se engancha a las llaves o se mete en la cartera. Desde el celular lo haces sonar y lo encuentras en segundos, sin estrés.",
+      "features": ["Alarma sonora", "Mapa de última ubicación", "Batería de un año"],
+      "pros": ["Muy económico", "Fácil de configurar", "Funciona al revés: encuentra el celular"],
+      "cons": ["Alcance limitado a unos 60 metros", "Necesita un celular"],
+      "forWho": "Hombres que a menudo pierden las llaves o la cartera.",
+      "notForWho": "Quien no usa celular inteligente."
+    },
+    "en": {
+      "slug": "bluetooth-key-finder",
+      "name": "Bluetooth key finder",
+      "ideal50": "Find your keys and wallet with one tap",
+      "why50": "Clip it to your keys or slip it into your wallet. Ring it from your phone and find it in seconds, stress free.",
+      "features": ["Audible alarm", "Last-seen location map", "One-year battery"],
+      "pros": ["Very affordable", "Easy to set up", "Works in reverse: finds your phone"],
+      "cons": ["Range limited to about 200 ft", "Needs a phone"],
+      "forWho": "Men who often misplace their keys or wallet.",
+      "notForWho": "Anyone without a smartphone."
+    }
+  },
+  {
+    "id": "afeitadora-rotativa",
+    "gender": "hombres", "category": "cuidado-hogar", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 3, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=rotary+electric+shaver+men",
+    "es": {
+      "slug": "afeitadora-electrica-rotativa",
+      "name": "Afeitadora eléctrica rotativa",
+      "ideal50": "Afeitado apurado sin irritar la piel",
+      "why50": "La piel se vuelve más fina y sensible con los años. Los cabezales rotativos se adaptan al contorno de la cara y reducen cortes e irritación.",
+      "features": ["Cabezales flexibles", "Uso en seco o con espuma", "Indicador de batería"],
+      "pros": ["Muy suave con la piel", "Mango fácil de agarrar", "Se lava bajo el grifo"],
+      "cons": ["Precio alto", "Los cabezales se cambian cada 1-2 años"],
+      "forWho": "Hombres con piel sensible que se afeitan a diario.",
+      "notForWho": "Quien prefiere el acabado de una navaja tradicional."
+    },
+    "en": {
+      "slug": "rotary-electric-shaver",
+      "name": "Rotary electric shaver",
+      "ideal50": "Close shave without skin irritation",
+      "why50": "Skin gets thinner and more sensitive with age. Rotary heads follow the face's contours and reduce nicks and irritation.",
+      "features": ["Flexible heads", "Wet or dry use", "Battery indicator"],
+      "pros": ["Very gentle on skin", "Easy-grip handle", "Rinses under the tap"],
+      "cons": ["High price", "Heads need replacing every 1-2 years"],
+      "forWho": "Men with sensitive skin who shave daily.",
+      "notForWho": "Anyone who prefers a traditional razor finish."
+    }
+  },
+  {
+    "id": "taladro-inalambrico-ligero",
+    "gender": "hombres", "category": "cuidado-hogar", "rank": 2, "rating": 4.5, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=lightweight+cordless+drill+driver",
+    "es": {
+      "slug": "taladro-atornillador-inalambrico-ligero",
+      "name": "Taladro atornillador inalámbrico ligero",
+      "ideal50": "Arreglos en casa sin cansar la muñeca",
+      "why50": "Pesa casi la mitad que un taladro tradicional y no tiene cable con el que tropezar. Ideal para colgar cuadros, montar muebles y pequeños arreglos.",
+      "features": ["Batería de litio", "Luz LED de trabajo", "Kit de brocas incluido"],
+      "pros": ["Muy ligero", "Fácil de controlar", "Carga rápida"],
+      "cons": ["No sirve para trabajos muy pesados", "La batería extra se compra aparte"],
+      "forWho": "Hombres a los que les gusta el bricolaje en casa.",
+      "notForWho": "Profesionales que perforan concreto a diario."
+    },
+    "en": {
+      "slug": "lightweight-cordless-drill",
+      "name": "Lightweight cordless drill driver",
+      "ideal50": "Home repairs without straining your wrist",
+      "why50": "It weighs about half as much as a traditional drill and has no cord to trip over. Great for hanging pictures, assembling furniture and small fixes.",
+      "features": ["Lithium battery", "LED work light", "Bit set included"],
+      "pros": ["Very light", "Easy to control", "Fast charging"],
+      "cons": ["Not for heavy-duty jobs", "Spare battery sold separately"],
+      "forWho": "Men who enjoy DIY around the house.",
+      "notForWho": "Professionals drilling concrete every day."
+    }
+  },
+  {
+    "id": "recortadora-nariz-orejas",
+    "gender": "hombres", "category": "cuidado-hogar", "rank": 3, "rating": 4.0, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=nose+and+ear+hair+trimmer",
+    "es": {
+      "slug": "recortadora-nariz-orejas",
+      "name": "Recortadora de vello de nariz y orejas",
+      "ideal50": "Cuidado rápido, seguro y sin tirones",
+      "why50": "Con la edad el vello de nariz, orejas y cejas crece más. Esta recortadora tiene cuchillas protegidas que cortan sin pellizcar.",
+      "features": ["Cuchillas protegidas", "Luz integrada", "Funciona con una pila AA"],
+      "pros": ["Muy económica", "Sin tirones", "Fácil de limpiar"],
+      "cons": ["Funciona con pilas", "No sirve para la barba"],
+      "forWho": "Cualquier hombre que quiera un aspecto cuidado con poco esfuerzo.",
+      "notForWho": "Quien busca una recortadora de barba completa."
+    },
+    "en": {
+      "slug": "nose-ear-hair-trimmer",
+      "name": "Nose and ear hair trimmer",
+      "ideal50": "Quick, safe grooming with no pulling",
+      "why50": "Nose, ear and eyebrow hair grows more with age. This trimmer has guarded blades that cut without pinching.",
+      "features": ["Guarded blades", "Built-in light", "Runs on one AA battery"],
+      "pros": ["Very affordable", "No pulling", "Easy to clean"],
+      "cons": ["Battery powered", "Not for beards"],
+      "forWho": "Any man who wants a neat look with little effort.",
+      "notForWho": "Anyone looking for a full beard trimmer."
+    }
+  },
+
+  {
+    "id": "masajeador-cuello-calor",
+    "gender": "mujeres", "category": "salud-bienestar", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=neck+shoulder+massager+with+heat",
+    "es": {
+      "slug": "masajeador-cuello-hombros-calor",
+      "name": "Masajeador de cuello y hombros con calor",
+      "ideal50": "Alivio de la tensión sin salir de casa",
+      "why50": "La tensión se acumula en el cuello y los hombros, sobre todo al leer o usar el celular. Este masajeador se apoya sobre los hombros y deja las manos libres.",
+      "features": ["Nodos de masaje shiatsu", "Calor suave opcional", "Apagado automático a los 15 minutos"],
+      "pros": ["Manos libres", "Calor muy agradable", "Se usa en el sofá o en el coche"],
+      "cons": ["Algo voluminoso", "La intensidad fuerte puede ser demasiado para algunas personas"],
+      "forWho": "Mujeres con tensión frecuente en cuello y espalda alta.",
+      "notForWho": "Personas con marcapasos o problemas cervicales, sin consultar antes al médico."
+    },
+    "en": {
+      "slug": "neck-shoulder-massager-heat",
+      "name": "Neck and shoulder massager with heat",
+      "ideal50": "Tension relief without leaving home",
+      "why50": "Tension builds up in the neck and shoulders, especially when reading or using a phone. This massager rests on your shoulders, leaving your hands free.",
+      "features": ["Shiatsu massage nodes", "Optional soothing heat", "15-minute auto shut-off"],
+      "pros": ["Hands-free", "Very pleasant heat", "Use it on the sofa or in the car"],
+      "cons": ["A bit bulky", "High intensity may be too much for some"],
+      "forWho": "Women with frequent neck and upper-back tension.",
+      "notForWho": "People with a pacemaker or neck problems, unless their doctor approves."
+    }
+  },
+  {
+    "id": "calcetines-compresion",
+    "gender": "mujeres", "category": "salud-bienestar", "rank": 2, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=women+compression+socks",
+    "es": {
+      "slug": "calcetines-compresion-mujer",
+      "name": "Calcetines de compresión suave",
+      "ideal50": "Piernas más ligeras al final del día",
+      "why50": "La compresión suave ayuda a la circulación y reduce la sensación de piernas cansadas o hinchadas, sobre todo en viajes largos o tras muchas horas de pie.",
+      "features": ["Compresión graduada suave", "Tejido transpirable", "Varios colores"],
+      "pros": ["Muy económicos", "Se notan en pocas horas", "Ideales para viajar"],
+      "cons": ["Cuesta un poco ponerlos al principio", "Hay que elegir bien la talla"],
+      "forWho": "Mujeres que viajan, trabajan de pie o notan las piernas pesadas.",
+      "notForWho": "Quien tiene problemas circulatorios graves, sin indicación médica."
+    },
+    "en": {
+      "slug": "womens-compression-socks",
+      "name": "Gentle compression socks",
+      "ideal50": "Lighter legs at the end of the day",
+      "why50": "Gentle compression supports circulation and eases the feeling of tired or swollen legs, especially on long trips or after hours on your feet.",
+      "features": ["Gentle graduated compression", "Breathable fabric", "Several colors"],
+      "pros": ["Very affordable", "You feel them working within hours", "Great for travel"],
+      "cons": ["A little tricky to put on at first", "Sizing matters"],
+      "forWho": "Women who travel, work on their feet or have heavy legs.",
+      "notForWho": "Anyone with serious circulation problems, unless a doctor recommends them."
+    }
+  },
+  {
+    "id": "bascula-pantalla-grande",
+    "gender": "mujeres", "category": "salud-bienestar", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=bathroom+scale+large+display",
+    "es": {
+      "slug": "bascula-digital-pantalla-grande",
+      "name": "Báscula digital con pantalla grande",
+      "ideal50": "Números enormes, fáciles de leer sin lentes",
+      "why50": "Los números grandes y retroiluminados se leen de pie y sin agacharse. La plataforma ancha y antideslizante da seguridad al subirse.",
+      "features": ["Pantalla retroiluminada de 9 cm", "Plataforma antideslizante", "Encendido automático al subir"],
+      "pros": ["Lectura clarísima", "Muy estable", "Sin configuración"],
+      "cons": ["No mide grasa ni músculo", "Funciona con pilas"],
+      "forWho": "Mujeres que quieren controlar su peso de forma sencilla.",
+      "notForWho": "Quien quiere datos de composición corporal en el celular."
+    },
+    "en": {
+      "slug": "large-display-bathroom-scale",
+      "name": "Digital scale with large display",
+      "ideal50": "Huge numbers, easy to read without glasses",
+      "why50": "Large backlit numbers are easy to read standing up, without bending down. The wide non-slip platform feels safe to step on.",
+      "features": ["3.5-inch backlit display", "Non-slip platform", "Step-on auto start"],
+      "pros": ["Crystal-clear reading", "Very stable", "No setup"],
+      "cons": ["Doesn't measure fat or muscle", "Battery powered"],
+      "forWho": "Women who want a simple way to track their weight.",
+      "notForWho": "Anyone who wants body composition data on their phone."
+    }
+  },
+  {
+    "id": "zapatillas-caminar-mujer",
+    "gender": "mujeres", "category": "fitness-movilidad", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 3, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=women+walking+shoes+lightweight+arch+support",
+    "es": {
+      "slug": "zapatillas-caminar-mujer",
+      "name": "Tenis ligeros para caminar",
+      "ideal50": "Ligeros, con soporte de arco y fáciles de poner",
+      "why50": "Un calzado ligero con buen soporte reduce el cansancio y protege las articulaciones. Estos se calzan sin agacharse gracias a su talón flexible.",
+      "features": ["Soporte de arco", "Talón flexible para calzar sin manos", "Suela antideslizante"],
+      "pros": ["Muy ligeros", "Se ponen sin agacharse", "Cómodos todo el día"],
+      "cons": ["Precio alto", "Tallan algo pequeño"],
+      "forWho": "Mujeres que caminan a diario o pasan mucho tiempo de pie.",
+      "notForWho": "Quien busca un calzado para senderismo en montaña."
+    },
+    "en": {
+      "slug": "womens-lightweight-walking-shoes",
+      "name": "Lightweight walking shoes",
+      "ideal50": "Light, with arch support and easy to slip on",
+      "why50": "Light shoes with good support reduce fatigue and protect your joints. These slip on without bending down thanks to a flexible heel.",
+      "features": ["Arch support", "Flexible heel for hands-free wear", "Non-slip sole"],
+      "pros": ["Very light", "Slip on without bending", "Comfortable all day"],
+      "cons": ["High price", "Run slightly small"],
+      "forWho": "Women who walk daily or spend a lot of time on their feet.",
+      "notForWho": "Anyone looking for mountain hiking boots."
+    }
+  },
+  {
+    "id": "esterilla-yoga-gruesa",
+    "gender": "mujeres", "category": "fitness-movilidad", "rank": 2, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=extra+thick+yoga+mat",
+    "es": {
+      "slug": "esterilla-yoga-extra-gruesa",
+      "name": "Tapete de yoga extra grueso",
+      "ideal50": "Protege rodillas y espalda al estirarte",
+      "why50": "Con 1,5 cm de grosor, amortigua rodillas, caderas y muñecas durante el yoga, los estiramientos o los ejercicios de suelo.",
+      "features": ["1,5 cm de grosor", "Superficie antideslizante", "Correa para transportarlo"],
+      "pros": ["Muy cómodo para las rodillas", "Económico", "Fácil de limpiar"],
+      "cons": ["Menos estable en posturas de equilibrio", "Ocupa más espacio enrollado"],
+      "forWho": "Mujeres que hacen yoga, pilates o estiramientos en casa.",
+      "notForWho": "Quien practica yoga avanzado con muchas posturas de equilibrio."
+    },
+    "en": {
+      "slug": "extra-thick-yoga-mat",
+      "name": "Extra-thick yoga mat",
+      "ideal50": "Protects knees and back while you stretch",
+      "why50": "At over half an inch thick, it cushions knees, hips and wrists during yoga, stretching or floor exercises.",
+      "features": ["0.6-inch thickness", "Non-slip surface", "Carrying strap"],
+      "pros": ["Very kind to knees", "Affordable", "Easy to clean"],
+      "cons": ["Less stable for balance poses", "Bulkier when rolled"],
+      "forWho": "Women who do yoga, pilates or stretching at home.",
+      "notForWho": "Advanced yogis doing many balance poses."
+    }
+  },
+  {
+    "id": "mancuernas-neopreno",
+    "gender": "mujeres", "category": "fitness-movilidad", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=neoprene+dumbbell+set+with+rack",
+    "es": {
+      "slug": "set-mancuernas-neopreno",
+      "name": "Set de mancuernas ligeras de neopreno",
+      "ideal50": "Fortalece huesos y músculos con poco peso",
+      "why50": "El ejercicio con peso ligero ayuda a mantener la fuerza y la salud de los huesos. El neopreno es suave al tacto y no resbala.",
+      "features": ["Pares de 1, 2 y 3 kg", "Recubrimiento antideslizante", "Soporte para guardarlas"],
+      "pros": ["Agarre cómodo", "No rayan el suelo", "Pesos progresivos"],
+      "cons": ["Pesos máximos limitados", "El soporte ocupa algo de espacio"],
+      "forWho": "Mujeres que quieren empezar a entrenar fuerza en casa.",
+      "notForWho": "Quien ya entrena con pesos altos."
+    },
+    "en": {
+      "slug": "neoprene-dumbbell-set",
+      "name": "Light neoprene dumbbell set",
+      "ideal50": "Strengthen bones and muscles with light weights",
+      "why50": "Light weight training helps maintain strength and bone health. Neoprene feels soft and doesn't slip.",
+      "features": ["Pairs of 2, 5 and 8 lb", "Non-slip coating", "Storage rack"],
+      "pros": ["Comfortable grip", "Won't scratch floors", "Progressive weights"],
+      "cons": ["Limited maximum weight", "Rack takes some space"],
+      "forWho": "Women who want to start strength training at home.",
+      "notForWho": "Anyone already lifting heavy weights."
+    }
+  },
+  {
+    "id": "lector-libros-luz-calida",
+    "gender": "mujeres", "category": "tecnologia-facil", "rank": 1, "rating": 5.0, "badge": "top", "priceTier": 3, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=e-reader+warm+light+waterproof",
+    "es": {
+      "slug": "lector-libros-electronicos-luz-calida",
+      "name": "Lector de libros electrónicos con luz cálida",
+      "ideal50": "Agranda la letra de cualquier libro a tu gusto",
+      "why50": "Puedes elegir el tamaño de letra que necesites, y la pantalla de tinta electrónica no cansa la vista como una tablet. Pesa menos que un libro de bolsillo.",
+      "features": ["Tamaño de letra ajustable", "Luz cálida regulable", "Resistente al agua"],
+      "pros": ["Descansa la vista", "Batería de semanas", "Miles de libros en la mano"],
+      "cons": ["Precio alto", "Pantalla en blanco y negro"],
+      "forWho": "Mujeres a las que les encanta leer, especialmente de noche.",
+      "notForWho": "Quien busca ver videos o navegar por internet."
+    },
+    "en": {
+      "slug": "e-reader-warm-light",
+      "name": "E-reader with warm light",
+      "ideal50": "Make any book's text as large as you like",
+      "why50": "Pick whatever font size you need, and the e-ink screen doesn't tire your eyes like a tablet does. It weighs less than a paperback.",
+      "features": ["Adjustable font size", "Adjustable warm light", "Waterproof"],
+      "pros": ["Easy on the eyes", "Battery lasts weeks", "Thousands of books in your hand"],
+      "cons": ["High price", "Black-and-white screen"],
+      "forWho": "Women who love reading, especially at night.",
+      "notForWho": "Anyone who wants to watch videos or browse the web."
+    }
+  },
+  {
+    "id": "marco-fotos-digital-wifi",
+    "gender": "mujeres", "category": "tecnologia-facil", "rank": 2, "rating": 4.5, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=wifi+digital+picture+frame",
+    "es": {
+      "slug": "marco-fotos-digital-wifi",
+      "name": "Marco de fotos digital con WiFi",
+      "ideal50": "Recibe las fotos de la familia sin tocar nada",
+      "why50": "Hijos y nietos envían fotos desde su celular y aparecen solas en el marco. Una forma sencilla de sentirse cerca aunque vivan lejos.",
+      "features": ["Pantalla táctil de 10 pulgadas", "Recibe fotos por app", "Rotación automática"],
+      "pros": ["Cero configuración diaria", "Imagen muy nítida", "Un regalo muy emotivo"],
+      "cons": ["Necesita WiFi en casa", "Alguien debe hacer la configuración inicial"],
+      "forWho": "Mujeres con familia lejos que quieren ver sus fotos a diario.",
+      "notForWho": "Hogares sin conexión a internet."
+    },
+    "en": {
+      "slug": "wifi-digital-photo-frame",
+      "name": "WiFi digital photo frame",
+      "ideal50": "Get family photos without touching a thing",
+      "why50": "Children and grandchildren send photos from their phones and they appear on the frame automatically. A simple way to feel close even when they live far away.",
+      "features": ["10-inch touchscreen", "Receives photos via app", "Auto rotation"],
+      "pros": ["No daily setup", "Very sharp image", "A heartfelt gift"],
+      "cons": ["Needs home WiFi", "Someone must do the initial setup"],
+      "forWho": "Women with family far away who want to see their photos every day.",
+      "notForWho": "Homes without an internet connection."
+    }
+  },
+  {
+    "id": "pulsera-actividad-sueno",
+    "gender": "mujeres", "category": "tecnologia-facil", "rank": 3, "rating": 4.0, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=fitness+tracker+sleep+monitor",
+    "es": {
+      "slug": "pulsera-actividad-monitor-sueno",
+      "name": "Pulsera de actividad con monitor de sueño",
+      "ideal50": "Cuenta pasos y sueño sin complicaciones",
+      "why50": "Una pulsera ligera y cómoda que motiva a moverse más cada día y ayuda a entender la calidad del descanso.",
+      "features": ["Pasos y distancia", "Monitor de sueño", "Batería de 10 días"],
+      "pros": ["Muy económica", "Ligera y cómoda para dormir", "Batería duradera"],
+      "cons": ["Pantalla pequeña", "Menos funciones que un reloj inteligente"],
+      "forWho": "Mujeres que quieren motivarse a caminar más.",
+      "notForWho": "Quien necesita detección de caídas o llamadas SOS."
+    },
+    "en": {
+      "slug": "fitness-tracker-sleep-monitor",
+      "name": "Activity tracker with sleep monitor",
+      "ideal50": "Tracks steps and sleep, no fuss",
+      "why50": "A light, comfortable band that encourages you to move more every day and helps you understand how well you rest.",
+      "features": ["Steps and distance", "Sleep tracking", "10-day battery"],
+      "pros": ["Very affordable", "Light and comfortable to sleep in", "Long battery life"],
+      "cons": ["Small screen", "Fewer features than a smartwatch"],
+      "forWho": "Women who want motivation to walk more.",
+      "notForWho": "Anyone who needs fall detection or SOS calls."
+    }
+  },
+  {
+    "id": "espejo-aumento-led",
+    "gender": "mujeres", "category": "cuidado-hogar", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=lighted+magnifying+makeup+mirror+10x",
+    "es": {
+      "slug": "espejo-aumento-luz-led",
+      "name": "Espejo de aumento con luz LED",
+      "ideal50": "Maquillaje y cuidado de la piel con todo detalle",
+      "why50": "El aumento y la luz uniforme ayudan a ver cada detalle aunque la vista de cerca ya no sea la de antes. Muy útil para maquillarse, depilarse las cejas o ponerse lentillas.",
+      "features": ["Doble cara: normal y aumento 10x", "Luz LED regulable", "Base giratoria estable"],
+      "pros": ["Imagen clarísima", "Luz sin sombras", "Recargable, sin cables"],
+      "cons": ["El aumento 10x requiere acercarse mucho", "Ocupa espacio en el tocador"],
+      "forWho": "Mujeres que notan que ya no ven bien de cerca al arreglarse.",
+      "notForWho": "Quien solo necesita un espejo de bolsillo."
+    },
+    "en": {
+      "slug": "lighted-magnifying-mirror",
+      "name": "Lighted magnifying mirror",
+      "ideal50": "Makeup and skincare in full detail",
+      "why50": "Magnification and even lighting help you see every detail even when your close-up vision isn't what it was. Great for makeup, brows or contact lenses.",
+      "features": ["Two sides: regular and 10x", "Dimmable LED light", "Stable swivel base"],
+      "pros": ["Crystal-clear view", "Shadow-free light", "Rechargeable, no cords"],
+      "cons": ["10x means getting very close", "Takes up vanity space"],
+      "forWho": "Women who find it harder to see up close when getting ready.",
+      "notForWho": "Anyone who only needs a pocket mirror."
+    }
+  },
+  {
+    "id": "secador-ionico-ligero",
+    "gender": "mujeres", "category": "cuidado-hogar", "rank": 2, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=lightweight+ionic+hair+dryer",
+    "es": {
+      "slug": "secador-pelo-ionico-ligero",
+      "name": "Secador de pelo iónico ligero",
+      "ideal50": "Menos peso en la mano y menos frizz",
+      "why50": "Pesa poco, así que no cansa los brazos ni las muñecas. La tecnología iónica seca más rápido y deja el cabello más suave, algo que se agradece cuando se vuelve más fino.",
+      "features": ["Menos de 500 g", "Tecnología iónica", "Botón de aire frío"],
+      "pros": ["No cansa los brazos", "Seca rápido", "Poco ruido"],
+      "cons": ["Cable algo corto", "Menos potente que los secadores profesionales"],
+      "forWho": "Mujeres que secan su cabello a diario y notan cansancio en los brazos.",
+      "notForWho": "Quien tiene el cabello muy largo y grueso y busca máxima potencia."
+    },
+    "en": {
+      "slug": "lightweight-ionic-hair-dryer",
+      "name": "Lightweight ionic hair dryer",
+      "ideal50": "Less weight in your hand, less frizz",
+      "why50": "It's light, so it doesn't tire your arms or wrists. Ionic technology dries faster and leaves hair softer, which helps as hair becomes finer.",
+      "features": ["Under 1.1 lb", "Ionic technology", "Cool shot button"],
+      "pros": ["Won't tire your arms", "Dries fast", "Quiet"],
+      "cons": ["Somewhat short cord", "Less powerful than salon dryers"],
+      "forWho": "Women who dry their hair daily and feel it in their arms.",
+      "notForWho": "Anyone with very long, thick hair who wants maximum power."
+    }
+  },
+  {
+    "id": "abridor-frascos-electrico",
+    "gender": "mujeres", "category": "cuidado-hogar", "rank": 3, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=electric+jar+opener",
+    "es": {
+      "slug": "abridor-frascos-electrico",
+      "name": "Abridor de frascos eléctrico",
+      "ideal50": "Abre cualquier frasco sin fuerza en las manos",
+      "why50": "La artritis o la pérdida de fuerza en las manos convierten un frasco en un reto. Este abridor lo hace solo con apretar un botón.",
+      "features": ["Se adapta a tapas de varios tamaños", "Un solo botón", "Funciona con pilas"],
+      "pros": ["Muy útil en el día a día", "Económico", "Un regalo muy práctico"],
+      "cons": ["No sirve para tapas muy pequeñas", "Gasta pilas con el uso frecuente"],
+      "forWho": "Mujeres con artritis o poca fuerza en las manos.",
+      "notForWho": "Quien abre frascos sin dificultad."
+    },
+    "en": {
+      "slug": "electric-jar-opener",
+      "name": "Electric jar opener",
+      "ideal50": "Opens any jar without hand strength",
+      "why50": "Arthritis or weaker hands turn a jar into a challenge. This opener does it for you at the press of a button.",
+      "features": ["Fits lids of many sizes", "One-button operation", "Battery powered"],
+      "pros": ["Useful every day", "Affordable", "A very practical gift"],
+      "cons": ["Won't fit very small lids", "Uses batteries with frequent use"],
+      "forWho": "Women with arthritis or reduced grip strength.",
+      "notForWho": "Anyone who opens jars easily."
+    }
+  },
+
+  {
+    "id": "tensiometro-brazo-automatico",
+    "gender": "unisex", "category": "salud-bienestar", "rank": 1, "rating": 5.0, "badge": "top", "priceTier": 2, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=upper+arm+blood+pressure+monitor",
+    "es": {
+      "slug": "tensiometro-brazo-automatico",
+      "name": "Tensiómetro de brazo automático",
+      "ideal50": "Pantalla grande y un solo botón",
+      "why50": "Controlar la presión arterial en casa es una de las recomendaciones más comunes después de los 50. Este modelo se usa con un solo botón y muestra números grandes y claros.",
+      "features": ["Manguito de brazo universal", "Memoria para dos usuarios", "Aviso de latido irregular"],
+      "pros": ["Muy fácil de usar", "Números grandes", "Guarda el historial"],
+      "cons": ["El manguito puede quedar justo en brazos muy anchos", "Funciona con pilas o adaptador"],
+      "forWho": "Cualquier persona que deba o quiera controlar su presión en casa.",
+      "notForWho": "No sustituye el seguimiento de tu médico."
+    },
+    "en": {
+      "slug": "automatic-upper-arm-blood-pressure-monitor",
+      "name": "Automatic upper-arm blood pressure monitor",
+      "ideal50": "Large display and one-button operation",
+      "why50": "Checking blood pressure at home is one of the most common recommendations after 50. This model works with a single button and shows large, clear numbers.",
+      "features": ["Universal arm cuff", "Memory for two users", "Irregular heartbeat alert"],
+      "pros": ["Very easy to use", "Large numbers", "Stores your history"],
+      "cons": ["Cuff may be snug on very large arms", "Runs on batteries or adapter"],
+      "forWho": "Anyone who needs or wants to monitor blood pressure at home.",
+      "notForWho": "Not a replacement for your doctor's follow-up."
+    }
+  },
+  {
+    "id": "oximetro-pulso",
+    "gender": "unisex", "category": "salud-bienestar", "rank": 2, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=fingertip+pulse+oximeter",
+    "es": {
+      "slug": "oximetro-pulso-dedo",
+      "name": "Oxímetro de pulso de dedo",
+      "ideal50": "Oxígeno y pulso en segundos",
+      "why50": "Mide el oxígeno en sangre y el pulso con solo poner el dedo. Útil para vigilar resfriados fuertes o seguir indicaciones del médico.",
+      "features": ["Lectura en unos 8 segundos", "Pantalla a color giratoria", "Apagado automático"],
+      "pros": ["Muy económico", "Cabe en el bolsillo", "Uso inmediato, sin configuración"],
+      "cons": ["El esmalte de uñas puede alterar la lectura", "Es orientativo, no un equipo médico profesional"],
+      "forWho": "Cualquier persona que quiera tener un control básico en casa.",
+      "notForWho": "Quien necesita monitoreo médico continuo."
+    },
+    "en": {
+      "slug": "fingertip-pulse-oximeter",
+      "name": "Fingertip pulse oximeter",
+      "ideal50": "Oxygen and pulse in seconds",
+      "why50": "Measures blood oxygen and pulse just by placing your finger in it. Handy for keeping an eye on bad colds or following your doctor's advice.",
+      "features": ["Reading in about 8 seconds", "Rotating color display", "Auto shut-off"],
+      "pros": ["Very affordable", "Fits in your pocket", "Ready to use, no setup"],
+      "cons": ["Nail polish can affect readings", "An indication, not professional medical equipment"],
+      "forWho": "Anyone who wants basic monitoring at home.",
+      "notForWho": "Anyone needing continuous medical monitoring."
+    }
+  },
+  {
+    "id": "pastillero-semanal-alarma",
+    "gender": "unisex", "category": "salud-bienestar", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=weekly+pill+organizer+with+alarm",
+    "es": {
+      "slug": "pastillero-semanal-alarma",
+      "name": "Pastillero semanal con alarma",
+      "ideal50": "Nunca más olvidar una toma",
+      "why50": "Organiza las pastillas de toda la semana y suena a la hora de tomarlas. Las tapas grandes se abren fácilmente, incluso con poca fuerza en los dedos.",
+      "features": ["7 días, hasta 4 tomas diarias", "Alarma programable", "Tapas grandes con letras marcadas"],
+      "pros": ["Evita olvidos y dobles tomas", "Letras grandes", "Portátil"],
+      "cons": ["Configurar la alarma requiere unos minutos", "Los compartimentos son justos para cápsulas grandes"],
+      "forWho": "Quien toma varios medicamentos al día.",
+      "notForWho": "Quien toma una sola pastilla ocasional."
+    },
+    "en": {
+      "slug": "weekly-pill-organizer-alarm",
+      "name": "Weekly pill organizer with alarm",
+      "ideal50": "Never miss a dose again",
+      "why50": "Organizes a full week of pills and beeps when it's time to take them. Large lids open easily, even with weaker fingers.",
+      "features": ["7 days, up to 4 doses a day", "Programmable alarm", "Large lids with bold letters"],
+      "pros": ["Prevents missed or double doses", "Large print", "Portable"],
+      "cons": ["Setting the alarm takes a few minutes", "Compartments are snug for large capsules"],
+      "forWho": "Anyone who takes several medications a day.",
+      "notForWho": "Anyone who takes a single occasional pill."
+    }
+  },
+  {
+    "id": "baston-plegable-ajustable",
+    "gender": "unisex", "category": "fitness-movilidad", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=folding+walking+cane+adjustable+pivot+tip",
+    "es": {
+      "slug": "baston-plegable-ajustable",
+      "name": "Bastón plegable ajustable con base pivotante",
+      "ideal50": "Más estabilidad, y se guarda en el bolso",
+      "why50": "Da seguridad al caminar por terrenos irregulares o en días de dolor. Se pliega en segundos y su base pivotante se agarra mejor al suelo.",
+      "features": ["Altura ajustable", "Base pivotante antideslizante", "Plegable en 4 partes"],
+      "pros": ["Se sostiene de pie solo", "Mango ergonómico", "Muy ligero"],
+      "cons": ["No sustituye un andador si hay mucha inestabilidad", "Las piezas plegables pueden hacer algo de ruido"],
+      "forWho": "Quien necesita apoyo ocasional al caminar o al viajar.",
+      "notForWho": "Quien necesita apoyo total para caminar."
+    },
+    "en": {
+      "slug": "adjustable-folding-cane",
+      "name": "Adjustable folding cane with pivot base",
+      "ideal50": "More stability, and it fits in your bag",
+      "why50": "Gives you confidence on uneven ground or on painful days. It folds in seconds, and its pivoting base grips the ground better.",
+      "features": ["Adjustable height", "Non-slip pivot base", "Folds into 4 sections"],
+      "pros": ["Stands up on its own", "Ergonomic handle", "Very light"],
+      "cons": ["Not a substitute for a walker if balance is poor", "Folding joints can rattle a little"],
+      "forWho": "Anyone who needs occasional support when walking or traveling.",
+      "notForWho": "Anyone who needs full walking support."
+    }
+  },
+  {
+    "id": "podometro-pantalla-grande",
+    "gender": "unisex", "category": "fitness-movilidad", "rank": 2, "rating": 4.0, "badge": "budget", "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=simple+pedometer+large+display",
+    "es": {
+      "slug": "podometro-pantalla-grande",
+      "name": "Podómetro sencillo con pantalla grande",
+      "ideal50": "Cuenta tus pasos sin celular ni aplicaciones",
+      "why50": "Ideal para quien quiere caminar más sin complicarse con relojes inteligentes. Se engancha al cinturón y muestra los pasos en números grandes.",
+      "features": ["Pantalla grande", "Clip para cinturón con correa", "Memoria de 7 días"],
+      "pros": ["Cero configuración", "Muy barato", "Batería de meses"],
+      "cons": ["Solo cuenta pasos y distancia", "Se puede perder si el clip se suelta"],
+      "forWho": "Quien quiere una meta diaria de pasos, sin tecnología.",
+      "notForWho": "Quien quiere medir ritmo cardíaco o sueño."
+    },
+    "en": {
+      "slug": "simple-large-display-pedometer",
+      "name": "Simple pedometer with large display",
+      "ideal50": "Count your steps without a phone or apps",
+      "why50": "Perfect for anyone who wants to walk more without dealing with smartwatches. Clip it to your belt and see your steps in large numbers.",
+      "features": ["Large display", "Belt clip with lanyard", "7-day memory"],
+      "pros": ["Zero setup", "Very cheap", "Battery lasts months"],
+      "cons": ["Only counts steps and distance", "Can get lost if the clip slips"],
+      "forWho": "Anyone who wants a daily step goal, tech free.",
+      "notForWho": "Anyone who wants heart rate or sleep tracking."
+    }
+  },
+  {
+    "id": "pelotas-terapia-manos",
+    "gender": "unisex", "category": "fitness-movilidad", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=hand+therapy+exercise+balls",
+    "es": {
+      "slug": "pelotas-terapia-manos",
+      "name": "Kit de pelotas de terapia para manos",
+      "ideal50": "Fuerza y movilidad en dedos y muñecas",
+      "why50": "Apretar las pelotas unos minutos al día ayuda a mantener la fuerza de agarre y la movilidad de los dedos, algo clave para la vida diaria.",
+      "features": ["3 niveles de dureza", "Material suave", "Guía de ejercicios"],
+      "pros": ["Muy económico", "Se usa viendo la tele", "Resistencias progresivas"],
+      "cons": ["Resultados lentos", "Hay que ser constante"],
+      "forWho": "Quien nota pérdida de fuerza o rigidez en las manos.",
+      "notForWho": "Quien tiene una lesión aguda en la mano, sin indicación médica."
+    },
+    "en": {
+      "slug": "hand-therapy-exercise-balls",
+      "name": "Hand therapy exercise ball kit",
+      "ideal50": "Strength and mobility for fingers and wrists",
+      "why50": "Squeezing the balls for a few minutes a day helps maintain grip strength and finger mobility, which is key for everyday life.",
+      "features": ["3 firmness levels", "Soft material", "Exercise guide"],
+      "pros": ["Very affordable", "Use while watching TV", "Progressive resistance"],
+      "cons": ["Results come slowly", "Requires consistency"],
+      "forWho": "Anyone noticing weaker grip or stiff hands.",
+      "notForWho": "Anyone with an acute hand injury, unless a doctor approves."
+    }
+  },
+  {
+    "id": "celular-teclas-grandes-sos",
+    "gender": "unisex", "category": "tecnologia-facil", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=big+button+cell+phone+seniors+sos",
+    "es": {
+      "slug": "celular-teclas-grandes-sos",
+      "name": "Celular de teclas grandes con botón SOS",
+      "ideal50": "Llamar es tan fácil como antes",
+      "why50": "Teclas grandes, sonido alto y un botón SOS que llama a un familiar. Perfecto para quien solo quiere llamar y recibir llamadas, sin complicaciones.",
+      "features": ["Teclas grandes con números claros", "Botón SOS trasero", "Base de carga"],
+      "pros": ["Muy fácil de usar", "Volumen alto", "Batería de varios días"],
+      "cons": ["No tiene aplicaciones como WhatsApp", "Cámara básica"],
+      "forWho": "Quien quiere un teléfono sencillo solo para llamar.",
+      "notForWho": "Quien usa WhatsApp o videollamadas."
+    },
+    "en": {
+      "slug": "big-button-phone-sos",
+      "name": "Big-button phone with SOS button",
+      "ideal50": "Calling is as easy as it used to be",
+      "why50": "Large keys, loud sound and an SOS button that calls a family member. Perfect for anyone who just wants to make and receive calls, no fuss.",
+      "features": ["Large keys with clear numbers", "SOS button on the back", "Charging cradle"],
+      "pros": ["Very easy to use", "Loud volume", "Battery lasts several days"],
+      "cons": ["No apps like WhatsApp", "Basic camera"],
+      "forWho": "Anyone who wants a simple phone just for calls.",
+      "notForWho": "Anyone who uses WhatsApp or video calls."
+    }
+  },
+  {
+    "id": "tablet-10-sencilla",
+    "gender": "unisex", "category": "tecnologia-facil", "rank": 2, "rating": 4.5, "badge": null, "priceTier": 3, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=10+inch+tablet",
+    "es": {
+      "slug": "tablet-10-pulgadas",
+      "name": "Tablet de 10 pulgadas",
+      "ideal50": "Videollamadas y lectura en una pantalla grande",
+      "why50": "Una pantalla grande hace que las videollamadas con la familia, las noticias y las recetas se vean mucho mejor que en el celular. Se puede agrandar el texto y los íconos.",
+      "features": ["Pantalla de 10 pulgadas", "Cámara frontal para videollamadas", "Modo de texto grande"],
+      "pros": ["Todo se ve más grande", "Batería de todo el día", "Buena para ver series"],
+      "cons": ["Precio más alto", "Pesa más que un celular"],
+      "forWho": "Quien hace videollamadas con la familia o lee en pantalla.",
+      "notForWho": "Quien no quiere aprender a usar un aparato nuevo."
+    },
+    "en": {
+      "slug": "10-inch-tablet",
+      "name": "10-inch tablet",
+      "ideal50": "Video calls and reading on a big screen",
+      "why50": "A large screen makes video calls with family, news and recipes much easier to see than on a phone. You can enlarge text and icons.",
+      "features": ["10-inch screen", "Front camera for video calls", "Large text mode"],
+      "pros": ["Everything looks bigger", "All-day battery", "Great for watching shows"],
+      "cons": ["Higher price", "Heavier than a phone"],
+      "forWho": "Anyone who video calls family or reads on screen.",
+      "notForWho": "Anyone who doesn't want to learn a new device."
+    }
+  },
+  {
+    "id": "auriculares-tv-inalambricos",
+    "gender": "unisex", "category": "tecnologia-facil", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=wireless+tv+headphones+seniors",
+    "es": {
+      "slug": "auriculares-inalambricos-tv",
+      "name": "Auriculares inalámbricos para TV",
+      "ideal50": "Escucha la tele claro, sin subir el volumen",
+      "why50": "Permiten oír los diálogos con claridad sin molestar al resto de la casa. Algunos modelos refuerzan las voces para entenderlas mejor.",
+      "features": ["Base de carga que también es transmisor", "Refuerzo de voces", "Volumen independiente"],
+      "pros": ["Adiós a las discusiones por el volumen", "Muy cómodos", "Fácil conexión a la TV"],
+      "cons": ["Hay que cargarlos", "Aíslan del entorno"],
+      "forWho": "Quien necesita subir mucho el volumen de la TV.",
+      "notForWho": "Quien ya usa audífonos con conexión directa a la TV."
+    },
+    "en": {
+      "slug": "wireless-tv-headphones",
+      "name": "Wireless TV headphones",
+      "ideal50": "Hear the TV clearly without turning it up",
+      "why50": "Lets you hear dialogue clearly without disturbing the rest of the house. Some models boost voices so they're easier to understand.",
+      "features": ["Charging base doubles as transmitter", "Voice boost", "Independent volume"],
+      "pros": ["No more arguments over volume", "Very comfortable", "Easy to connect to the TV"],
+      "cons": ["Need charging", "Block out your surroundings"],
+      "forWho": "Anyone who needs the TV volume turned way up.",
+      "notForWho": "Anyone whose hearing aids already stream from the TV."
+    }
+  },
+  {
+    "id": "barra-apoyo-bano",
+    "gender": "unisex", "category": "cuidado-hogar", "rank": 1, "rating": 4.5, "badge": "top", "priceTier": 2, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=grab+bar+bathroom+stainless",
+    "es": {
+      "slug": "barra-apoyo-bano",
+      "name": "Barra de apoyo para baño",
+      "ideal50": "Entrar y salir de la ducha con seguridad",
+      "why50": "El baño es donde ocurren más caídas en casa. Una barra bien instalada da un punto de apoyo firme al entrar y salir de la ducha o al levantarse del inodoro.",
+      "features": ["Acero inoxidable", "Agarre antideslizante", "Soporta más de 130 kg"],
+      "pros": ["Mucha seguridad", "Discreta y elegante", "No se oxida"],
+      "cons": ["Requiere taladrar para instalarla", "Hay que atornillarla a un soporte firme"],
+      "forWho": "Cualquier hogar con personas de más de 50 años.",
+      "notForWho": "Quien no puede hacer agujeros (buscar entonces una barra de ventosa certificada)."
+    },
+    "en": {
+      "slug": "bathroom-grab-bar",
+      "name": "Bathroom grab bar",
+      "ideal50": "Get in and out of the shower safely",
+      "why50": "The bathroom is where most falls at home happen. A well-installed bar gives a firm handhold when stepping in and out of the shower or getting up from the toilet.",
+      "features": ["Stainless steel", "Non-slip grip", "Holds over 300 lb"],
+      "pros": ["Much safer", "Discreet and stylish", "Rust-proof"],
+      "cons": ["Requires drilling to install", "Must be fixed into solid support"],
+      "forWho": "Any home with people over 50.",
+      "notForWho": "Anyone who can't drill (look for a certified suction bar instead)."
+    }
+  },
+  {
+    "id": "luces-led-sensor-movimiento",
+    "gender": "unisex", "category": "cuidado-hogar", "rank": 2, "rating": 4.5, "badge": "budget", "priceTier": 1, "featured": true,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=motion+sensor+night+lights+led",
+    "es": {
+      "slug": "luces-led-sensor-movimiento",
+      "name": "Luces LED con sensor de movimiento",
+      "ideal50": "Se encienden solas al levantarte de noche",
+      "why50": "Iluminan pasillos, escaleras y el baño cuando te levantas de noche, justo cuando ocurren muchas caídas. Se pegan sin herramientas.",
+      "features": ["Encendido automático por movimiento", "Recargables por USB", "Adhesivo magnético"],
+      "pros": ["Muy económicas", "Instalación en 1 minuto", "Luz suave que no deslumbra"],
+      "cons": ["Hay que recargarlas cada pocas semanas", "El adhesivo puede fallar en paredes rugosas"],
+      "forWho": "Cualquier hogar, especialmente con pasillos o escaleras oscuras.",
+      "notForWho": "Quien prefiere cambiar la instalación eléctrica fija."
+    },
+    "en": {
+      "slug": "motion-sensor-led-lights",
+      "name": "Motion-sensor LED lights",
+      "ideal50": "Turn on by themselves when you get up at night",
+      "why50": "They light up hallways, stairs and the bathroom when you get up at night, exactly when many falls happen. They stick on without tools.",
+      "features": ["Motion-activated", "USB rechargeable", "Magnetic adhesive mount"],
+      "pros": ["Very affordable", "Installed in 1 minute", "Soft, non-glaring light"],
+      "cons": ["Need recharging every few weeks", "Adhesive may fail on rough walls"],
+      "forWho": "Any home, especially with dark hallways or stairs.",
+      "notForWho": "Anyone who prefers hard-wired lighting."
+    }
+  },
+  {
+    "id": "pinza-alcanzadora",
+    "gender": "unisex", "category": "cuidado-hogar", "rank": 3, "rating": 4.0, "badge": null, "priceTier": 1, "featured": false,
+    "image": null, "store": "Amazon",
+    "affiliateUrl": "https://www.amazon.com/s?k=reacher+grabber+tool",
+    "es": {
+      "slug": "pinza-alcanzadora",
+      "name": "Pinza alcanzadora plegable",
+      "ideal50": "Recoge cosas del suelo sin agacharte",
+      "why50": "Evita agacharse o subirse a una silla para alcanzar objetos. Protege la espalda y reduce el riesgo de caídas.",
+      "features": ["Largo de 80 cm", "Punta de goma antideslizante", "Imán en la punta"],
+      "pros": ["Muy útil a diario", "Ligera y plegable", "Recoge hasta monedas"],
+      "cons": ["No sirve para objetos pesados", "La calidad varía mucho entre marcas"],
+      "forWho": "Quien tiene dolor de espalda o rodillas.",
+      "notForWho": "Quien necesita levantar objetos pesados."
+    },
+    "en": {
+      "slug": "folding-reacher-grabber",
+      "name": "Folding reacher grabber",
+      "ideal50": "Pick things up from the floor without bending",
+      "why50": "Saves you from bending down or climbing on a chair to reach things. Protects your back and lowers the risk of falls.",
+      "features": ["32-inch length", "Non-slip rubber tips", "Magnetic tip"],
+      "pros": ["Useful every day", "Light and foldable", "Picks up even coins"],
+      "cons": ["Not for heavy objects", "Quality varies a lot by brand"],
+      "forWho": "Anyone with back or knee pain.",
+      "notForWho": "Anyone who needs to lift heavy objects."
+    }
+  }
+]
